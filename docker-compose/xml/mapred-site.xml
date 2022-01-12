@@ -1,0 +1,7 @@
+<!-- hdfs-site.xml -->
+<configuration>
+    <property>
+        <name>mapred.job.tracker</name>
+        <value>nn:9001</value>
+    </property>
+</configuration>
